@@ -1,0 +1,62 @@
+day 2
+
+Algorithm for simple interest 
+ step 1: start 
+ step 2: declare the principle time and rate
+ step 3: read the values into priniciple time and rate 
+step 4: calculate (p*r*t)/100
+step 5 : display simple interest
+step 6: stop 
+
+
+algorithm for swapping number
+step 1: start
+step 2: declare the variables a,b,temp
+step 3: read the values into a=10 ,b=5 
+step 4 :temp = a
+        a=b
+        b= temp
+step 5 : print tha values of a and b
+step 6 : stop  
+
+algorithm for swapping the number (*)
+
+1.start
+2.declare a,b,temp
+3.read the values into a,b (a=10, b=20)
+4.display a,b values before swapping 
+5. perfom the swap operation by using following steps
+ 
+i) temp=a;
+ii)a=b;
+iii)b=temp;
+6.print a,b values after swapping
+7.stop
+step 
+
+
+
+without temp a=10 b=20
+we have 
+a=a+b
+b=a-b
+a=a-b
+
+Algorithm for even number
+
+step 1: start
+step 2: declare n 
+step 3 : read the value into n 
+step 4 : if N%2==0(here double equals to used to check it equals to remainder or not 
+                    single = is used for assignment operator )
+step 5 : print even number 
+step 6 : else
+step 7 : print not even 
+algorithm fo even or not (*)
+Step 1: start
+stpe 2: declare num
+step 3: read the value into num
+step 4  check if num is divisible by 2 (num%2==0)
+step 5: print even number
+step 6: other wise print not even
+step 7: stop

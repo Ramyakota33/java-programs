@@ -1,0 +1,141 @@
+day 4
+
+Algorithm for prediction of winning  of cricket match 
+step 1: start 
+step 2:declare the  team 1 and team 2  
+step 3: read the values into team 1 and team 2
+step 4:compare the previous winning scores of both the teams
+step 5: if team 1 wins 5 previous matches and team 2 wins 3 previous matches
+step 6 : then display there is a possibility for team 1 to win the match 
+step 7 : stop 
+
+
+Algorithm to print “bitLabs” 10 times.
+step 1: start 
+step 2:declare the string bitlabs,n
+step 3: read the value into bitlabs 
+step 4: if(n>=10)
+step 5: print" bitlabs 10 times"
+step 6: stop 
+
+Algorithm to print "my name is sowjanya" for 5 times.
+ 
+o/p:
+my name is sowjanya
+my name is sowjanya
+my name is sowjanya
+my name is sowjanya
+my name is sowjanya
+ 
+looping - for, while , do while
+ 
+step1:start
+step2:declare count
+step3:assigning the value 1 to count variable (count=1)
+step4:print "myname is sowjanya"
+step5:incrementing count value by 1 and store the value into count (count =count+1)
+step6: repeat step 4 and 5 until it reaches count value is greater than 5 (count<=5)
+step7:stop
+
+Algorithm to print bitlabs 10 times
+ step 1 : start
+step 2: declare count 
+step3: assigning the value 1 to count (count=1)
+step4: print " bitlabs"
+step5: incrementing count value by 1 and store tha value into count (count =count+1)
+step 6: repeat step 4 and step 5 until it reaches count value is greater than 10 (count<=10)
+step 7 : stop
+
+if we start with 1 (1<=10) if we want to print 10 times 
+if we start with 0 (1<10)if we want to print 10 times 
+
+
+
+Algorithm to print 1 to 10  numbers
+step 1: start
+step 2: declare count
+step 3: assigning the value 1 to count (count =1)
+step 4: print count
+step 5:increment count value by 1 
+step 6: store the value into count (count=count +1)
+step 7: repeat step 4 and step 5 until it reaches count value(count<=10)
+step 8 :stop
+
+
+how to write algorithm for "print 10 to 1"
+Step 1: start
+step 2: declare count
+step 3: assigning the value 10 to count (count =10)
+step 4: print count 
+step 5: decrement count value by 1
+step6 : store the value into count (count =count-1)
+step7:repeat step 4 and 5 until it reaches count value (count>=1)
+step 8 : stop
+Assignment1
+1.write algorithm for sum of 1 to 10 numbers.
+2.write algorithm for print even numbers from 1 to 100
+3.write algorithm for print odd numbers from 1 to 100
+
+
+1.write algorithm for sum of 1 to 10 numbers.
+step1: start
+step2: declare count,sum
+step3: Assigning the value 1 into count and assigning value '0' to sum
+step4: adding count value to sum and store that result into sum (sum-->sum+count)
+step5: increment the count value by 1 (count-->count+1)
+step6: repeat these step 4 and step 5 until it reaches the count value lessthan or equal to 10
+       (count<=10) otherwise go to step7
+step7: print sum
+step8: stop
+
+2.write algorithm for print even numbers from 1 to 100
+step1:start
+step2:declare count variable
+step3:assigning the value 1 into count
+step4:check if the count value is divisible by 2 or not(count%2==0). if it is divisible by 2 goto step5 otherwise goto step6
+step5:print count
+step6:increment the count value by 1 (count=count+1)
+step7:repeat the step 4,5,6 until it reaches the count value lessthan or equal to 100 (count<=100)
+step8:stop
+ 
+
+
+Algorithm for the sum of even number upto 20
+step 1: start
+step 2: decalre the  variable i and sum
+step 3:assign the value 1 to i and 0 to sum i.e i=1 and sum=0
+step 4: if i%2==0 then go to step 5 otherwise go to step 6
+step 5 : print sum
+step 6 :increment the sum value by (sum=sum+i)
+step 7 : repeat the step4 until it reaches the condition(i<=20)
+step 8 : stop 
+
+
+
+Algorithm for the print odd numbers from 1 to 100
+step 1: start
+step2:declare the variable i
+step 3:read tha value 1 into i
+step 4:increment the value i by 1 and store the i value into i (i=i+1)
+step 5: repeat the step 4&5 until i value is greater than 100 (i<=100)
+step6:then i%2!=0 
+step 7 : and then print the i value 
+step 8 : now the add 1 to the final i value i.e(i=i+1)
+step 9: display the i value 
+step 10 : stop 
+
+Algorithm to buy a smart phone in ecommerce website
+step 1 : start
+step 2: go to the ecommerce website
+step 3: register your details
+step 4 : login
+step 5 : go to the electronoic gadgets
+step 5 : search for the mobile you want 
+step 6 : select the model of the mobile and check the price of the mobile
+step 7: and add to the cart 
+step 8 : and select buy now 
+step 9: and select the transaction details
+step 10 : add the address details 
+step 11 : place an order
+
+

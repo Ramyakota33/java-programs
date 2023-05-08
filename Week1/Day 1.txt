@@ -1,0 +1,33 @@
+Day 1
+Avg of three numbers:
+step 1: start 
+step 2: declare the number1,number2,number 3
+step 3: read the values into number1 ,number2 ,number3
+step 4:adding the three numbers sum=number 1+ number 2+ number 3
+step 5:now avg = sum/3
+step 6:display avg
+step 7: stop 
+ 3) Area of rectangle
+step 1: start
+step 2:declare lenght ,breadth,area
+step 3: read the values into length and  breadth
+step 4: area = length * breadth
+step 5: display the area 
+step 6: stop  
+
+Perimeter of a rectangle :
+ step 1: start 
+step 2:declare length, breadth,and perimeter
+step 3: read the values into length and breadth
+step 4 : perimeter =2*(length+breadth)
+step 5: display perimeter
+step 6: stop 
+  
+
+Perimeter of asquare :
+step 1: start
+step 2: declare the side and perimeter
+step 3: read the values into side 
+step 4 : perimeter =4* side 
+step 5 : display perimeter 
+step 6: stop 

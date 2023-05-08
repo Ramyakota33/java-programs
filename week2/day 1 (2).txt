@@ -1,0 +1,87 @@
+day 1
+
+Algorithm to check wheather it is a perfect number or not 
+step 1: start
+step 2: declare a variable i ,n and sum 
+step 3: assign the values  into i=1 and sum=0 and n=6
+step 4: check the condition i value is less than n (i<n) otherwise go to step 10 
+step 4: check the conditon if(n%i)==0  then go to step 5  otherwise go to step 6
+step 5 : then sum =sum +i
+ step6: increment i value by 1(i=i+1)
+step 7: repeat the steps 4,5,6, until  the condition is true otherwise go to step 10 
+step 8 :check that sum==n if is true 7 otherwise go to step 8
+step 7 : then print 6 is perfect number 
+step 8: print not perfect
+step 10: stop
+
+
+Algorthim for the basic salary of employee
+    WAP to input basic salary of an employee and calculate its Gross     salary according to following:
+    Basic Salary <= 10000 : HRA = 20%, DA = 80%
+    Basic Salary <= 20000 : HRA = 25%, DA = 90%
+    Basic Salary > 20000 : HRA = 30%, DA = 95%
+
+
+step1: start
+step2: decalre the variable basic salary, gross salary,HRA,DA
+step3: read the basic salary
+step4: if the basic salary was less than or equal to 10000
+step5: calculate the 20%HRA(basic salary*20/100) and 80%DA( basic salary*80/100)
+step6: for calculate gross salary add basic salary+HRA+DA & then go to step 13
+step7: else if basic salary was less than or equal to 20000
+step8:calculate the 25%HRA(basic salary*25/100) and 90%DA( basic salary*90/100)
+step9: for calculate gross salary add basic salary+HRA+DA & then go to step13
+step10:else if basic salary was greater than 20000
+step 11:calculate the 30%HRA(basic salary*30/100) and 95%DA( basic salary*95/100)
+step12: for calculate gross salary add basic salary+HRA+DA and then go to step13
+step13: print gross salary
+step14:stop
+(0r)
+step1: start
+step2: decalre the variable basic salary, gross salary,HRA,DA
+step3: read the basic salary
+step4: if the basic salary was less than or equal to 10000
+step5: calculate the 20%HRA(basic salary*20/100) and 80%DA( basic salary*80/100)
+step6: for calculate gross salary add basic salary+HRA+DA
+step7: go to step16
+step8: else if basic salary was less than or equal to 20000
+step9:calculate the 25%HRA(basic salary*25/100) and 90%DA( basic salary*90/100)
+step10: for calculate gross salary add basic salary+HRA+DA
+step11:go to step16
+step12:else if basic salary was greater than 20000
+step 13:calculate the 30%HRA(basic salary*30/100) and 95%DA( basic salary*95/100)
+step14: for calculate gross salary add basic salary+HRA+DA
+step15:go to step16
+step16: print gross salary
+step17:stop
+
+​
+Algorithm to Write a program that prompts the user to enter their weight in pounds and their height in inches, and then calculates their body mass index (BMI). The program should then output whether they are underweight, normal weight, overweight, or obese based on their BMI.
+ 
+step
+
+step1: start
+step2: declare the variables height,weight,BMI
+step3: read the values of height,weight
+step4: caculate the BMI by weight/(square of (height))
+step5: if BMI is less than or equal to 18.5
+step6: print the person is under weight
+step7: else if the BMI is less than or equal to 24.9
+step8: print the person is normal weight
+step9: else if the BMI is greater or equal to 29.9
+step10 print the person is overweight
+step11:otherwise print obese
+step12: stop
+
+
+Algorithm to print the factorial of 15
+step 1: start
+step 2: declare a variable i, n
+istep 3: assign the value i=1 ,n=15 
+step 4: check  condition that the i value is less than or equal to n
+step 5: if the i value is less than and equal to n then go to step 6 or otherwise go to step10
+step 6: check i value is divisible by n or not 
+step 7:if the i is divisible by n 
+step 8: then print the value of i is a factorial of n otherwise go to step 9
+step 9:increment the value of i by 1 until it satisfies the condition (i<=n)
+step10 : stop

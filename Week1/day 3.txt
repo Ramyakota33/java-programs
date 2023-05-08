@@ -1,0 +1,106 @@
+day 3
+algorithm for positive or negative numbers
+step 1: start 
+step 2: declare the n
+step 3 : read the value n 
+step 3: if the number is >0 (n>0)
+step 4 : print positive number  
+step 5 : else if the number is <0(n<0)
+step 6: print negative number 
+ step 7 : stop 
+
+Algorithm for greatest number between two numbers
+ step 1 : start
+ step 2: declare two numbers a and b
+ step 3 : read the values into a and b 
+ step 4: if a value is greater then b 
+step 5 : display a is greater number 
+step 6 : otherwise display  b is greater number
+step 7: stop 
+
+
+Algorithm to find the largest  number among the three numbers 
+step1 : start 
+step 2: declare three numbers a,b,c
+step 3: read the values into a b and c
+step 4: if a is greater than b and a is also greater than c 
+step 5 : print a is largest number 
+step 6: if b is greater than a and b is also greater than c
+step 7: then print b is largest number
+step 8: otherwise print c is largest number 
+step 9 : stop 
+
+
+Write an algorithm to input marks of five subjects Physics, Chemistry, Biology,     Mathematics and Computer. 
+ step 1: start 
+ step 2: declare the subjects physics,chemistry ,biology,maths and computer
+step 3: read the values into physics ,chemistry,biology maths and computer
+ step 4: now calculate the sum of the marks of the subjects 
+step 5: and now calculate the percentage(sum of the marks /total marks)*100
+step 6: if the percentage is greater than equal to 90% 
+step 7 : then print grade A
+step 8 : if the percentage is greater than equal to 80 %
+step 9 : then print grade B
+step 10 : if the percentage is greater than equal to 70%
+step 11: then print grade C
+step 12: if the percentage is greater than equal to 60%
+step 13 : then print grade D
+step 14 :if the percentage is greater than equal to 40%
+step 15 : then print grade E
+step 16 : if the percentage is less than 40%
+step 17 : then print grade F
+step 18 : stop
+
+
+write an algorithm for check an alphabet is vowel or consonant
+step 1: start
+step 2: declare the charachter  
+step 3 : read the charachter 
+step 4:if the charachter  is equals to a,e,i,o,u,s 
+step 5 : then print vowel 
+step 6 : otherwise print consonant
+step 7 : stop
+
+algorithm to check whether he is eligible to vote 
+step 1 : start 
+step 2: declare the variable age 
+step 3 : read the value of the variable age 
+step 4: if the age is greater than are equal to 18 
+step 5 : then  print he is eligible to vote
+step 6: if the age is not greater than 18 
+step 7: then print he is not eligible to vote 
+step 8 : stop 
+
+Algorithm  to find the sum and avg of three numbers 
+step 1: start 
+step 2: declare the number1,number2,number 3
+step 3: read the values into number1 ,number2 ,number3
+step 4: now by adding the three numbers we can  get the sum
+step 5:sum=number 1+ number 2+ number 3
+step 6: now print the sum
+step 5:now  we calculate the avg = sum/3
+step 6:display avg
+step 7: stop
+
+
+Algorithm for Login to facebook 
+Step 1: start 
+step 2: declare the email address or phone number ,and password 
+step 3 : read the value into email adress or phone number and password 
+step 4:if the email address and password is correct 
+step 5: then you can login into facebook 
+step 6: display login successfully 
+step 7 : if your login details is incorrect 
+step 8: then display invalid email address or password
+step 9: stop 
+
+
+Algorithm for donating blood 
+step 1:start
+step 2: declare the variables blood group,age,and weight and health condition 
+step 3:read the values into blood group,age and weight and health condition
+step 4:if the blood group ,age and weight and health condition is checked 
+step 5 : then display that the person can donate the blood 
+step 6 : otherwise  display that the person cannot donate the blood
+step 7: stop
+
