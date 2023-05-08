@@ -1,0 +1,49 @@
+week 2 day 5
+
+Algorithm for the atm transactions
+
+withdraw
+deposit
+change the pin
+verify the balance 
+mini statements
+ 
+ algorithm to change the pin 
+step 1: start
+step 2:insert the atm card 
+step 3: choose the language 
+step 4:choose the option pin change 
+step 5 : enter your registered mobile number 
+step 6 : select generate new pin
+step 7:enter the otp which was sent to your registered mobile number
+step 8:set the new pin 
+step 9: take out the atm card
+step 10 : stop 
+  
+
+Algorithm for withdraw
+ step1 : start
+step 2:insert the atm card 
+step 3:select the language 
+step 4: enter the pin 
+step 5: choose the banking account type (savings /current)
+step 6: enter amount
+step 7: withdraw the cash 
+step 8 : remove the atm card 
+step 9 : stop  
+
+
+
+Algorithm for deposit
+step 1: start
+step 2: insert the atm card
+step 3:choose the language
+step 4 : enter the pin 
+step 5: enter the account type 
+step 6:choose the option deposit 
+step 7: select self deposit
+step 8:insert the cash 
+step 9 :amount successfully added to the account
+step 10: stop
+
+
